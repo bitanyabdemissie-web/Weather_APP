@@ -4,9 +4,9 @@ A simple desktop weather application built with **PyQt5** that allows users to e
 
 ---
 
-## 📸 Preview
+## Preview
 
-![Weather App Screenshot]<img width="388" height="360" alt="image" src="https://github.com/user-attachments/assets/923e349f-3207-443b-be4f-3368ca217476" />
+<img width="388" height="360" alt="image" src="https://github.com/user-attachments/assets/923e349f-3207-443b-be4f-3368ca217476" />
 
 
 ---
